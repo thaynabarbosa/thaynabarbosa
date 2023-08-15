@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thayná</h1>
 <h3 align="center">I'm a passionate to learn.</h3>
 
-- 🌱 I’m currently learning **Java.**
+- :computer: I'm **Java** developer.
 
 - 📫 How to reach me **thaynasants@gmail.com**
 
